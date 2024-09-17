@@ -1,9 +1,9 @@
-Project Title: MULTI FUNCTIONAL OPERATIONAL SUITE
+PROJECT TITLE: MULTI FUNCTIONAL OPERATIONAL SUITE
 
 DESCRIPTION :- 
 This project is a suite of four distinct applications, each designed to solve a specific problem or perform a unique function.
 
-1.Currency Converter (Using API)
+1. Currency Converter (Using API)
 This module allows users to convert between various currencies in real-time using an external API. Users can select their desired base currency and target currency, and the program will fetch the latest exchange rates from the API to calculate the converted value.
 
 2. ATM Machine Simulation
