@@ -17,8 +17,11 @@ This module helps manage student information and calculates their grades. Users 
 
 TECHNOLOGIES USED:- 
 Programming Language: Java (Enterprise edition and Standard edition).
+
 API Link: https://www.frankfurter.app/
+
 Data Storage: Simple file handling for storing ATM and Student Grade system data.
+
 Libraries: Standard Java libraries and API connection handling.
 
 
