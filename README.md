@@ -2,7 +2,7 @@
 
 
 
-DESCRIPTION :- 
+**DESCRIPTION** :- 
 This project is a suite of four distinct applications, each designed to solve a specific problem or perform a unique function.
 
 1. Currency Converter (Using API)
